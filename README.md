@@ -33,8 +33,7 @@
 
 ## About me 🧑‍💻
 
-- 📝 I write articles on [huyblue17.dev](https://www.huyblue17.dev/)
-- 📫 Reach me via snugness_atlantic236(at)aleeas.com
+- 📝 3rd Software Engineering at TDTU
 
 ## Code Hosting 🚀
 
@@ -80,59 +79,3 @@
   </a>
 </p>
 
-## Connect with me 🤝
-
-<p>
-  <a href="https://www.hackerrank.com/huyblue17" target="_blank">
-    <picture>
-      <source
-        srcset="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank" alt="HackerRank">
-    </picture>
-  </a>
-  <a href="https://www.leetcode.com/huyblue17" target="_blank">
-    <picture>
-      <source
-        srcset="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://img.shields.io-badge/LeetCode-white?style=for-the-badge&logo=leetcode" alt="LeetCode">
-    </picture>
-  </a>
-  <a href="https://www.reddit.com/user/OddPlenty9884/" target="_blank">
-    <picture>
-      <source
-        srcset="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://img.shields.io-badge/Reddit-white?style=for-the-badge&logo=reddit" alt="Reddit">
-    </picture>
-  </a>
-  <a href="https://www.huyblue17.dev/index.xml" target="_blank">
-    <picture>
-      <source
-        srcset="https://img.shields.io/badge/RSS-black?style=for-the-badge&logo=rss"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://img.shields.io/badge/RSS-white?style=for-the-badge&logo=rss"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img align="center" src="https://img.shields.io/badge/RSS-white?style=for-the-badge&logo=rss" alt="RSS">
-    </picture>
-  </a>
-</p>
