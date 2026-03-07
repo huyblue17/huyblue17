@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm Huy (huyblue17)</h1>
-  <p><b>Software Engineering Student @ TDTU</b></p>
+  <h1>Hi 👋, I'm Huy </h1>
+  <p><b>Software Engineering Student at TDTU</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=huyblue17&label=VIEWS&color=0e76a8&style=flat-square" alt="Views" />
   <br><br>
