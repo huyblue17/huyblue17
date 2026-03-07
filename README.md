@@ -9,11 +9,10 @@
 ### 🧑‍💻 About Me
 - 🎓 **Education**: 4th-year Software Engineering at Ton Duc Thang University.
 - 🎯 **Focus**: Developing scalable web applications and exploring system architecture.
-- ✍️ **Motto**: "Code is like humor. When you have to explain it, it’s bad."
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Java, C#
-- **Frameworks**: React, Node.js, .NET Core
+- **Frameworks**: React, Node.js, Nest.js, .NET Core
 - **Tools**: Docker, Git, VS Code
 
 ---
