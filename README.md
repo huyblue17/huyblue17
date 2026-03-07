@@ -24,6 +24,6 @@
 
 ---
 <p align="center">
-  <a href="https://linkedin.com/in/your-username">LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://linkedin.com/in/huy-tống-8ba0622a3">LinkedIn</a> • 
+  <a href="mailto:tongnguyengiahuy2004@gmail.com">Email</a>
 </p>
