@@ -16,12 +16,6 @@
 - **Frameworks**: React, Node.js, .NET Core
 - **Tools**: Docker, Git, VS Code
 
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyblue17&show_icons=true&theme=transparent&hide_border=true&title_color=0e76a8&icon_color=0e76a8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyblue17&layout=compact&theme=transparent&hide_border=true&title_color=0e76a8" width="45%" />
-</div>
-
 ---
 <p align="center">
   <a href="https://linkedin.com/in/huy-tống-8ba0622a3">LinkedIn</a> • 
